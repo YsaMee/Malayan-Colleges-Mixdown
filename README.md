@@ -25,3 +25,14 @@ In this custom edition made for Mapúa Malayan Colleges Mindanao, players tap di
    ```bash
    git clone https://github.com/yourusername/malayan-colleges-mixdown.git
    cd malayan-colleges-mixdown
+
+2. **Install dependencies**
+   ```bash
+   pip install pygame
+
+3. **Run the game**
+   ```bash
+   menu.py
+
+## 🧠 Credits
+Created by students of Mapúa Malayan Colleges Mindanao as a fun and meaningful tribute to the MMCM community.
