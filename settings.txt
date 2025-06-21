@@ -1,0 +1,6 @@
+1. DIFFICULTY:
+normal
+2. PLACEHOLDER SETTING:
+placeholder default value
+3. PLACEHOLDER SETTING 0:
+placeholder default value 0
